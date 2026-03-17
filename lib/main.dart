@@ -5,6 +5,8 @@ void main() {
 }
 
 class MainPage extends StatelessWidget {
+  const MainPage({super.key});
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
