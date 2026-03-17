@@ -8,7 +8,7 @@ class MainPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: false,
+      debugShowCheckedModeBanner: true,
       home: Scaffold(
         appBar: AppBar(
           backgroundColor: Colors.teal,
@@ -97,32 +97,32 @@ class MainPage extends StatelessWidget {
                   children: [
                     TextButton(
                       onPressed: () {},
-                      style: ButtonStyle(backgroundColor: MaterialStateProperty.all(Colors.teal)),
+                      style: ButtonStyle(backgroundColor: .all(Colors.teal)),
                       child: Text("Baju", style: TextStyle(color: Colors.white)),
                     ),
                     TextButton(
                       onPressed: () {},
-                      style: ButtonStyle(backgroundColor: MaterialStateProperty.all(Colors.teal)),
+                      style: ButtonStyle(backgroundColor: .all(Colors.teal)),
                       child: Text("Celana", style: TextStyle(color: Colors.white)),
                     ),
                     TextButton(
                       onPressed: () {},
-                      style: ButtonStyle(backgroundColor: MaterialStateProperty.all(Colors.teal)),
+                      style: ButtonStyle(backgroundColor: .all(Colors.teal)),
                       child: Text("Sepatu", style: TextStyle(color: Colors.white)),
                     ),
                     TextButton(
                       onPressed: () {},
-                      style: ButtonStyle(backgroundColor: MaterialStateProperty.all(Colors.teal)),
+                      style: ButtonStyle(backgroundColor: .all(Colors.teal)),
                       child: Text("Aksesoris", style: TextStyle(color: Colors.white)),
                     ),
                     TextButton(
                       onPressed: () {},
-                      style: ButtonStyle(backgroundColor: MaterialStateProperty.all(Colors.teal)),
+                      style: ButtonStyle(backgroundColor: .all(Colors.teal)),
                       child: Text("Elektronik", style: TextStyle(color: Colors.white)),
                     ),
                     TextButton(
                       onPressed: () {},
-                      style: ButtonStyle(backgroundColor: MaterialStateProperty.all(Colors.teal)),
+                      style: ButtonStyle(backgroundColor: .all(Colors.teal)),
                       child: Text("Buku", style: TextStyle(color: Colors.white)),
                     ),
                   ],
