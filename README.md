@@ -4,11 +4,6 @@
 **NIM:** 2306019
 **Mata Kuliah:** Praktikum Pemrograman Mobile  
 
-## 📱 Hasil Tampilan Aplikasi
-*(Ganti tulisan ini dan letakkan gambar screenshot hasil run aplikasi Anda di sini. Anda bisa men-drag & drop gambar langsung saat mengedit file README ini di GitHub).*
-
----
-
 ## 📚 Pembahasan Modul 3: Layout & Flexbox
 Pada pertemuan ke-3 ini, materi berfokus pada cara mengatur tata letak (*layout*) antarmuka pengguna di Flutter agar responsif dan rapi. Beberapa *widget* tata letak utama yang dibahas meliputi:
 
